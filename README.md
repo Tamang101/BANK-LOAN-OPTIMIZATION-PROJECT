@@ -22,10 +22,9 @@ Analysis of loan application processing times with recommendations for Deutsche 
 - **70% reduction** in slow applications
 - Improved customer experience
 
-## 🛠️ Technical Stack
+## Technical Stack
 - Python (Pandas, NumPy)
 - Jupyter Notebook
 - Data Analysis & Visualization
 - Process Optimization
 
-## 📁 Project Structure
